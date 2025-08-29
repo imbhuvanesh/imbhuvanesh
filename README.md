@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
-<h3 align="center">Final-year ECE student | Cloud Computing | Java | Full-Stack Dev | Python Building scalable apps and applying DevOps practices. Aspiring Cloud & DevOps Engineer.</h3>
+<h3 align="center">Final-year ECE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbhuvanesh&label=Profile%20views&color=0e75b6&style=flat" alt="imbhuvanesh" /> </p>
 
@@ -9,9 +9,17 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
+- 👨‍💻 All of my projects are available at [https://sweet-hummingbird-597622.netlify.app/](https://sweet-hummingbird-597622.netlify.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@iambhuvanesh.a](https://medium.com/@iambhuvanesh.a)
+
+- 💬 Ask me about **Tech**
+
 - 📫 How to reach me **iambhuvanesh.a@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19TWgd2ArNldj6-Rjr_Lp9PbLKnKFs9_6/view?usp=sharing](https://drive.google.com/file/d/19TWgd2ArNldj6-Rjr_Lp9PbLKnKFs9_6/view?usp=sharing)
+
+- ⚡ Fun fact **I think I am Curious !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

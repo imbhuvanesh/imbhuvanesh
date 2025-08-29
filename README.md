@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbhuvanesh&label=Profile%20views&color=0e75b6&style=flat" alt="imbhuvanesh" /> </p>
 
-- 🔭 I’m currently working on [Movie-Minds](https://github.com/imbhuvanesh/Movie-Minds)
+- 🔭 I’m currently working on [M-Minds](https://github.com/imbhuvanesh/M-Minds)
 
 - 🌱 I’m currently learning **JavaScript**
 

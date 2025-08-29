@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
-<h3 align="center">Final-year ECE student</h3>
+<h1 align="left">Hi 👋, I'm Bhuvanesh</h1>
+<h3 align="left">Final-year ECE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbhuvanesh&label=Profile%20views&color=0e75b6&style=flat" alt="imbhuvanesh" /> </p>
 

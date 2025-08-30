@@ -7,7 +7,7 @@
 
 - 📫 Mail to **iambhuvanesh.a@gmail.com**
 
-- ⚡ Fun fact **Curious Being !**
+- ⚡ Fun fact is  **I am Curious Being !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

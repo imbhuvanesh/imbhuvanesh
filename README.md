@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BHUVANESH !</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h1 align="left">Hi 👋, I'm BHUVANESH </h1>
+<h3 align="left">A passionate Java developer from India</h3>
 
 - 🔭 I’m currently working on **Anonymous**
 

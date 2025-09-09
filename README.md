@@ -1,7 +1,8 @@
 <div align="center" style="background:#000; padding:20px; border-radius:12px; color:#00FF00; font-family:'VT323', monospace;">
 
-  <!-- Matrix Banner -->
-  <img src="https://i.gifer.com/7VE.gif" width="100%" height="200px" style="border-radius:6px;" />
+  <!-- Popeye Banner -->
+  <img src="https://images.openai.com/thumbnails/url/7IyTSnicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5ySwsvdTQOjXL1CUspNwpxiveoyk51LUgOiAiLzAhJNEhzSi6PzLfwsqzw1jUJCyhOd3Isj3B3dzWoDFQrBgAVAyl9" 
+       width="100%" height="220px" style="border-radius:6px;" />
 
   <!-- Matrix Styled Name -->
   <h1>

@@ -2,7 +2,7 @@
 
 
   <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif"
-       width="100%" height="220px" style="border-radius:6px;" />
+       width="100%" height="200px" style="border-radius:16px;" />
 
 
   <h1>

@@ -1,5 +1,8 @@
 <div align="left" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color:white; background:#000; padding:20px; border-radius:12px;">
 
+  <!-- Banner GIF -->
+  <img src="download.gif" alt="banner" style="width:100%; border-radius:12px; margin-bottom:20px;" />
+
   <!-- Header with animated name -->
   <h1>
     Hi 👋, I'm  

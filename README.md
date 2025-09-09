@@ -1,7 +1,17 @@
 <div align="left" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color:white; background:#000; padding:20px; border-radius:12px;">
 
-  <!-- Header -->
-  <h1>Hi 👋, I'm Bhuvanesh !</h1>
+  <!-- Header with animated name -->
+  <h1>
+    Hi 👋, I'm  
+    <svg width="360" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
+      <text x="0" y="45" font-size="40" fill="white" stroke="#00FFFF" stroke-width="2" stroke-dasharray="600" stroke-dashoffset="600">
+        Bhuvanesh !
+        <animate attributeName="stroke-dashoffset" from="600" to="0" dur="3s" fill="freeze" repeatCount="indefinite"/>
+        <animate attributeName="fill" values="white;#00FFFF;white" dur="4s" repeatCount="indefinite"/>
+      </text>
+    </svg>
+  </h1>
+
   <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=500&lines=A+passionate+developer+from+India;Full-stack+Builder;Open+Source+Contributor;Problem+Solver" alt="Typing Animation" />
   </h3>

@@ -1,7 +1,8 @@
 <div align="center" style="background:#000; padding:20px; border-radius:12px; color:#00FF00; font-family:'VT323', monospace;">
 
-  <!-- Popeye Flexing Banner -->
-  <img src="https://i.imgur.com/Ho4o7KI.gif" width="100%" height="220px" style="border-radius:6px;" />
+  <!-- Mr. Bean Banner -->
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" 
+       width="100%" height="220px" style="border-radius:6px;" />
 
   <!-- Matrix-Styled Typing Text -->
   <h1>

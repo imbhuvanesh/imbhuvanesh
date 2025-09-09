@@ -1,56 +1,67 @@
-<div align="left" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color:white; background:#000; padding:20px; border-radius:12px;">
+<div align="center" style="background:#000; color:white; padding:25px; border-radius:16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
   <!-- Banner GIF -->
-  <img src="download.gif" alt="banner" style="width:100%; border-radius:12px; margin-bottom:20px;" />
+  <img src="download.gif" alt="banner" style="width:100%; border-radius:16px; margin-bottom:20px;" />
 
-  <!-- Header with animated name -->
+  <!-- Animated Header -->
   <h1>
-    Hi 👋, I'm  
-    <svg width="360" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-      <text x="0" y="45" font-size="40" fill="white" stroke="#00FFFF" stroke-width="2" stroke-dasharray="600" stroke-dashoffset="600">
-        Bhuvanesh !
-        <animate attributeName="stroke-dashoffset" from="600" to="0" dur="3s" fill="freeze" repeatCount="indefinite"/>
-        <animate attributeName="fill" values="white;#00FFFF;white" dur="4s" repeatCount="indefinite"/>
+    <svg width="450" height="70" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#00FFFF">
+            <animate attributeName="stop-color" values="#00FFFF;#FF00FF;#FFD700;#00FFFF" dur="6s" repeatCount="indefinite"/>
+          </stop>
+          <stop offset="100%" stop-color="#FFD700">
+            <animate attributeName="stop-color" values="#FFD700;#FF00FF;#00FFFF;#FFD700" dur="6s" repeatCount="indefinite"/>
+          </stop>
+        </linearGradient>
+      </defs>
+      <text x="0" y="55" font-size="45" fill="url(#grad)" stroke="white" stroke-width="1" stroke-dasharray="700" stroke-dashoffset="700">
+        Bhuvanesh 🚀
+        <animate attributeName="stroke-dashoffset" from="700" to="0" dur="4s" fill="freeze" repeatCount="indefinite"/>
       </text>
     </svg>
   </h1>
 
+  <!-- Typing Animation -->
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=500&lines=A+passionate+developer+from+India;Full-stack+Builder;Open+Source+Contributor;Problem+Solver" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=550&lines=Passionate+Developer+from+India;Full-Stack+Builder+%7C+Open+Source+Contributor;Problem+Solver+%7C+Tech+Explorer;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
   </h3>
 
   <!-- Contact -->
-  <p>📫 Mail to <b style="color:#FFD700;">iambhuvanesh.a@gmail.com</b></p>
+  <p>📫 Reach me at <b style="color:#FFD700;">iambhuvanesh.a@gmail.com</b></p>
 
   <!-- Socials -->
-  <h3>🌐 Connect with me:</h3>
+  <h3>🌐 Let's Connect</h3>
   <p>
     <a href="https://linkedin.com/in/im-bhuvanesh" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://instagram.com/bhuvanexsh" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.leetcode.com/imbhuvanesh" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+    <a href="https://leetcode.com/imbhuvanesh" target="blank">
+      <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
   </p>
 
-  <!-- Tools -->
-  <h3>🛠 Languages and Tools:</h3>
+  <!-- Tech Stack -->
+  <h3>⚡ Languages & Tools</h3>
   <p>
-    <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
+    <img src="https://skillicons.dev/icons?i=git,java,js,mysql,python,react,linux,vscode,github" />
   </p>
+
+  <!-- Stats -->
+  <h3>📊 GitHub Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iambhuvanesh&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iambhuvanesh&theme=tokyonight&hide_border=true" height="150"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhuvanesh&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  </p>
+
+  <!-- Footer Animation -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 </div>

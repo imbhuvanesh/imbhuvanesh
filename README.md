@@ -3,7 +3,7 @@
 
 <img align="right" alt="Oppenheimer" width="300" src="YOUR_OPPENHEIMER_GIF_LINK_HERE" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imbhuvanesh&label=Profile%20views&color=0e75b6&style=flat" alt="imbhuvanesh" /> </p>
+<p align="left"> <img src="download.gif" alt="imbhuvanesh" /> </p>
 
 - 📫 Mail to **iambhuvanesh.a@gmail.com**
 

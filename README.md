@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Bhuvanesh !</h1>
 <h3 align="left">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hlajlrMGI1aWM0MDNpbmJza3hteHA0cDF4cnA3Nm90MDh6aHVpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6nmrLmHuyU8qjvoS0X/giphy.gif" />
+<img align="right" alt="Oppenheimer" width="300" src="YOUR_OPPENHEIMER_GIF_LINK_HERE" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbhuvanesh&label=Profile%20views&color=0e75b6&style=flat" alt="imbhuvanesh" /> </p>
 

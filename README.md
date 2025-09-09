@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bhuvanesh !</h1>
 <h3 align="left">A passionate developer from India</h3>
 
-<img align="right" alt="Oppenheimer" width="300" src="YOUR_OPPENHEIMER_GIF_LINK_HERE" />
-
 <p align="left"> <img src="download.gif" alt="imbhuvanesh" /> </p>
 
 - 📫 Mail to **iambhuvanesh.a@gmail.com**

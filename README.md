@@ -1,7 +1,7 @@
 <div align="center" style="background:#000; padding:20px; border-radius:12px; color:#00FF00; font-family:'VT323', monospace;">
 
   <!-- Mr Bean Banner GIF -->
-  <img src="https://media.tenor.com/erSdpAtxE7EAAAAC/mr-bean-holiday.gif" width="100%" height="180px" style="border-radius:4px;" />
+  <img src="b.gif.gif" width="100%" height="180px" style="border-radius:4px;" />
 
   <!-- Typing Animation -->
   <h1>

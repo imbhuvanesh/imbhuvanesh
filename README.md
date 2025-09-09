@@ -1,4 +1,4 @@
-<div align="center" style="background:#000; padding:20px; border-radius:12px; color:#00FF00; font-family: monospace;">
+<div align="center" style="background:#000; padding:20px; border-radius:12px; color:#00FF00; font-family: Arial, Helvetica, sans-serif;">
 
 <!-- Matrix Banner -->
 <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="100%" height="180px" style="border-radius:4px;" />

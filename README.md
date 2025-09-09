@@ -51,15 +51,9 @@
     <img src="https://skillicons.dev/icons?i=git,java,js,mysql,python,react,linux,vscode,github" />
   </p>
 
-  <!-- Stats -->
-  <h3>📊 GitHub Stats</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iambhuvanesh&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iambhuvanesh&theme=tokyonight&hide_border=true" height="150"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhuvanesh&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  </p>
+  <!-- Snake Contribution Graph -->
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/iambhuvanesh/iambhuvanesh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <!-- Footer Animation -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />

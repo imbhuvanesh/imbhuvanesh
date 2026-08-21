@@ -6,50 +6,48 @@
 
   <title>Bhuvanesh | Developer</title>
 
+  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
   <link
-    href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Google+Sans:ital,opsz,wght,GRAD@0,17..18,400..700,-50;1,17..18,400..700,-50&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Google+Sans:ital,opsz,wght,GRAD@0,17..18,400..700,-50;1,17..18,400..700,-50&family=Nabla&family=Quicksand:wght@300..700&display=swap"
     rel="stylesheet"
   >
 
   <style>
-    html,
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
-      padding: 0;
-      width: 100%;
-      min-height: 100%;
-    }
-
-    body {
-      background-color: #000;
-
-      /* BLACK GRID + WHITE LINES */
-      background-image:
-        linear-gradient(
-          rgba(255, 255, 255, 0.12) 1px,
-          transparent 1px
-        ),
-        linear-gradient(
-          90deg,
-          rgba(255, 255, 255, 0.12) 1px,
-          transparent 1px
-        );
-
-      background-size: 32px 32px;
-      background-position: center top;
-
-      color: #fff;
+      padding: 30px;
+      background: #000;
       font-family: 'Google Sans', sans-serif;
-
-      text-align: center;
+      color: #fff;
     }
 
-    .content {
-      width: 100%;
-      padding: 40px 20px;
+    .profile-container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 25px;
+      border-radius: 18px;
+
+      /* ONLINE BLACK GRID IMAGE */
+      background-image:
+        url("https://background-patterns.co/templates/minimalistic-black-grid-pattern-with-thin-white-lines");
+
+      background-color: #000;
+      background-size: 32px 32px;
+      background-position: center;
+      background-repeat: repeat;
+
+      border: 1px solid rgba(255,255,255,0.15);
+    }
+
+    .typing {
+      margin: 0;
     }
 
     .typing img {
@@ -59,19 +57,20 @@
 
     .section-title {
       font-family: 'Google Sans Flex', sans-serif;
+      font-size: 26px;
       font-weight: 600;
-      color: #fff;
       letter-spacing: 1px;
-      margin-top: 30px;
+      margin: 30px 0 20px;
     }
 
     .tech-stack {
       display: flex;
+      flex-wrap: wrap;
       justify-content: center;
       align-items: center;
-      flex-wrap: wrap;
       gap: 18px;
-      margin-top: 20px;
+      max-width: 650px;
+      margin: auto;
     }
 
     .tech-stack img {
@@ -89,23 +88,49 @@
       width: 217px !important;
       border-radius: 12px !important;
     }
+
+    @media (max-width: 600px) {
+
+      body {
+        padding: 10px;
+      }
+
+      .profile-container {
+        padding: 30px 15px;
+      }
+
+      .typing img {
+        width: 100%;
+      }
+
+      .tech-stack {
+        gap: 12px;
+      }
+
+      .tech-stack img {
+        width: 45px;
+        height: 45px;
+      }
+
+      .section-title {
+        font-size: 22px;
+      }
+    }
   </style>
 </head>
 
 <body>
 
-  <div class="content">
+  <div class="profile-container" align="center">
 
     <!-- TYPING ANIMATION -->
 
-    <div class="typing">
-
+    <h1 class="typing">
       <img
         src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+World!_;I+am+Bhuvanesh!_;Developer!_;"
         alt="Typing Animation"
       >
-
-    </div>
+    </h1>
 
 
     <!-- TECH STACK -->
@@ -118,62 +143,53 @@
 
       <img
         src="https://skillicons.dev/icons?i=java"
-        height="55"
         alt="Java"
       >
 
       <img
         src="https://skillicons.dev/icons?i=html"
-        height="55"
         alt="HTML"
       >
 
       <img
         src="https://skillicons.dev/icons?i=css"
-        height="55"
         alt="CSS"
       >
 
       <img
         src="https://skillicons.dev/icons?i=js"
-        height="55"
         alt="JavaScript"
       >
 
       <img
         src="https://skillicons.dev/icons?i=python"
-        height="55"
         alt="Python"
       >
 
       <img
         src="https://skillicons.dev/icons?i=nodejs"
-        height="55"
         alt="Node.js"
       >
 
       <img
         src="https://skillicons.dev/icons?i=mysql"
-        height="55"
         alt="MySQL"
       >
 
       <img
         src="https://skillicons.dev/icons?i=flutter"
-        height="55"
         alt="Flutter"
       >
 
       <img
         src="https://skillicons.dev/icons?i=git"
-        height="55"
         alt="Git"
       >
 
     </div>
 
 
-    <!-- SUPPORT MY WORK -->
+    <!-- SUPPORT -->
 
     <div class="support">
 
@@ -185,16 +201,12 @@
         href="https://buymeacoffee.com/bhuvaneshh"
         target="_blank"
         rel="noopener noreferrer"
+        class="coffee-button"
       >
 
         <img
           src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
           alt="Buy Me A Coffee"
-          style="
-            height:60px !important;
-            width:217px !important;
-            border-radius:12px !important;
-          "
         >
 
       </a>

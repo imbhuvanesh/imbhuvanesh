@@ -1,21 +1,12 @@
 <div align="center">
 
-<!-- Black Grid Background -->
-<table>
-<tr>
-<td align="center">
-
-<br>
-
-<!-- Typing Animation -->
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I+am+Bhuvanesh!;Developer!+%F0%9F%92%BB"
+  src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+World!;I+am+Bhuvanesh!;Developer!"
   alt="Typing SVG"
 />
 
 <br><br>
 
-<!-- Tech Stack -->
 <h2>Tech Stack</h2>
 
 <p>
@@ -42,7 +33,6 @@
 
 <br>
 
-<!-- Support -->
 <h2>Support My Work</h2>
 
 <a href="https://buymeacoffee.com/bhuvaneshh">
@@ -52,11 +42,5 @@
     width="217"
   />
 </a>
-
-<br><br>
-
-</td>
-</tr>
-</table>
 
 </div>

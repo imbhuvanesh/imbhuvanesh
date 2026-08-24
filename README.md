@@ -20,6 +20,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="52" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="52" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="52" alt="Supabase"/>
   <img src="https://skillicons.dev/icons?i=flutter" height="52" alt="Flutter"/>
   <img src="https://skillicons.dev/icons?i=git" height="52" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=linux" height="52" alt="Linux"/>

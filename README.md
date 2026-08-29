@@ -35,6 +35,16 @@
   <img src="https://skillicons.dev/icons?i=ps" height="52" alt="Adobe Photoshop"/>
   <img src="https://skillicons.dev/icons?i=pr" height="52" alt="Adobe Premiere Pro"/>
   <img src="https://skillicons.dev/icons?i=ae" height="52" alt="Adobe After Effects"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="52" alt="Figma"/>
+</p>
+
+<br>
+
+<h3>Productivity & Knowledge</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=notion" height="52" alt="Notion"/>
+  <img src="https://skillicons.dev/icons?i=obsidian" height="52" alt="Obsidian"/>
 </p>
 
 <br>

@@ -45,23 +45,27 @@
 
 <h3>WakaTime Stats</h3>
 
-<a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true"
-    alt="WakaTime Coding Activity"
-  />
-</a>
+<p align="center">
+  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true"
+      alt="WakaTime Coding Activity"
+    />
+  </a>
+</p>
 
-<br><br>
+<br>
 
 <h3>Profile Views</h3>
 
-<img
-  src="https://komarev.com/ghpvc/?username=imbhuvanesh&style=flat-square&color=blueviolet&label=PROFILE+VIEWS"
-  alt="GitHub Profile Views"
-/>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=imbhuvanesh&style=flat-square&color=blueviolet&label=PROFILE+VIEWS"
+    alt="GitHub Profile Views"
+  />
+</p>
 
-<br><br>
+<br>
 
 <h3>Support My Work</h3>
 
@@ -74,4 +78,3 @@
 </a>
 
 </div>
-```

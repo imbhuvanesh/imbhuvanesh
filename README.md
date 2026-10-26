@@ -1,4 +1,12 @@
+
 <div align="center">
+
+<p align="right">
+  <img
+    src="https://komarev.com/ghpvc/?username=imbhuvanesh&style=flat-square&color=blueviolet&label=PROFILE+VIEWS"
+    alt="GitHub Profile Views"
+  />
+</p>
 
 <h3>Tech Stack</h3>
 
@@ -39,30 +47,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=notion" height="52" alt="Notion"/>
   <img src="https://skillicons.dev/icons?i=obsidian" height="52" alt="Obsidian"/>
-</p>
-
-<br>
-
-<h3>WakaTime Stats</h3>
-
-<p align="center">
-  <a href="https://wakatime.com/">
-    <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true"
-      alt="WakaTime Coding Activity"
-    />
-  </a>
-</p>
-
-<br>
-
-<h3>Profile Views</h3>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=imbhuvanesh&style=flat-square&color=blueviolet&label=PROFILE+VIEWS"
-    alt="GitHub Profile Views"
-  />
 </p>
 
 <br>

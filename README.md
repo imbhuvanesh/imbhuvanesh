@@ -46,7 +46,7 @@
 <h3>WakaTime Stats</h3>
 
 <p align="center">
-  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
+  <a href="https://wakatime.com/">
     <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true"
       alt="WakaTime Coding Activity"

@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <p align="right">
@@ -16,6 +15,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="52" alt="CSS"/>
   <img src="https://skillicons.dev/icons?i=js" height="52" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=python" height="52" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="52" alt="Docker"/>
 </p>
 
 <p align="center">
